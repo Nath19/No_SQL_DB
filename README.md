@@ -7,7 +7,7 @@
 
 NoSQL databases are designed to support cloud application requirements and overcome the scale, performance, data model and data distribution limitations of traditional relational databases (RDBMS’s).
 
-![nosql](/Users/nathanamar/Documents/github/No_SQL_DB/img/nosql.png)
+![nosql](https://github.com/Nath19/No_SQL_DB/blob/master/img/nosql.png)
 
 A NoSQL (Not-only-SQL) database stores, distributes and accesses data using methods that differ from relational databases (RDBMS’s). Internet leaders, such as Facebook, Google and Amazon, originally created and used the NoSQL technology because these tech-giants required massively scalable database management systems that could write and read data anywhere in the world, while delivering performance and availability to billions of users.
 
