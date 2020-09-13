@@ -1,6 +1,6 @@
 # Not-only-SQL Databases 💻 
 
-##In this repository  we will see four of the most popular nosql databases.
+## In this repository  we will see four of the most popular nosql databases.
 
 
 #### What is NoSQL?
