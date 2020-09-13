@@ -13,21 +13,21 @@ A NoSQL (Not-only-SQL) database stores, distributes and accesses data using meth
 
 Today, most companies and organizations must also deliver large scale applications that personalize their customer’s experience. NoSQL is the database technology of choice for powering such systems.
 
-###How NoSQL Differs from Relational Databases ?? 
+### How NoSQL Differs from Relational Databases ?? 
 NoSQL and RDBMS databases support different application requirements and frequently co-exist in enterprises to support different use cases. The key technological decision criteria include the following
 
 # Mongodb
 
 MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need. MongoDB’s document model is simple for developers to learn and use, while still providing all the capabilities needed to meet the most complex requirements at any scale.
 
-![mondodb](/Users/nathanamar/Documents/github/No_SQL_DB/img/mondodb.jpg)
+![mondodb](https://github.com/Nath19/No_SQL_DB/blob/master/img/mondodb.jpg)
 
 # Elastic Search
 
 Elasticsearch is a distributed, open-source search and analytics engine built on Apache Lucene and developed in Java. It started as a scalable version of the Lucene open-source search framework then added the ability to horizontally scale Lucene indices. Elasticsearch allows you to store, search, and analyze huge volumes of data quickly and in near real-time and give back answers in milliseconds. It’s able to achieve fast search responses because instead of searching the text directly, it searches an index. It uses a structure based on documents instead of tables and schemas and comes with extensive REST APIs for storing and searching the data. At its core, you can think of Elasticsearch as a server that can process JSON requests and give you back JSON data.
 
 
-![elsaticsearch](/Users/nathanamar/Documents/github/No_SQL_DB/img/elsaticsearch.png)
+![elsaticsearch](https://github.com/Nath19/No_SQL_DB/blob/master/img/elsaticsearch.png)
 
 # Cassandra
 
